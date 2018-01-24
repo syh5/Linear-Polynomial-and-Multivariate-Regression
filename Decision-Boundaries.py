@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # meta-parameters for program
 trial_name = 'p6_reg0' # will add a unique sub-string to output of this program
-degree = 6 # p, degree of model (LEAVE THIS FIXED TO p = 6 FOR THIS PROBLEM)
+degree = 6 # p, degree of model 
 beta = 1 # regularization coefficient
 alpha = 0.01 # step size coefficient
 n_epoch = 10000 # number of epochs (full passes through the dataset)
